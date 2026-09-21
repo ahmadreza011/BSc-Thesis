@@ -1,5 +1,5 @@
 # BSc Thesis
-The repository contains some materials related to my BSc thesis, written in Persian.
+This repository contains some materials related to my BSc thesis, written in Persian.
 
 ## Report
 
